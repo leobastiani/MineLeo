@@ -1,0 +1,1 @@
+IniWrite(@ScriptDir & "\MineLeo.ini", "MineLeo", "Nome", $CmdLine[1])
